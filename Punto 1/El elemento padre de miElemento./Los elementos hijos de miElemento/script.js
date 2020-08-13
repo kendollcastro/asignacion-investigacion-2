@@ -1,0 +1,2 @@
+//Parece, al menos intuitivamente, que document.getElementById('contenido').firstChild debería seleccionarse el primer párrafo. Sin embargo, sólo ocurre así en Internet Explorer.
+document.getElementById('contenido').firstChild 
